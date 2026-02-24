@@ -58,7 +58,7 @@ export default function Pricing() {
             </ul>
 
             <button className="w-full bg-blue-600 text-white py-4 px-6 rounded-xl font-semibold text-lg hover:bg-blue-700 transition-all duration-200 shadow-lg hover:shadow-xl hover:scale-105">
-              <a href="https://github.com/IbrahimPopatiya/smartshot-website/releases/tag/v1.0.0/SmartShot.exe">
+              <a href="https://github.com/IbrahimPopatiya/smartshot-website/releases/download/v1.0.0/SmartShot.exe">
                 Start 7-Day Free Trial
               </a>            
             </button>
